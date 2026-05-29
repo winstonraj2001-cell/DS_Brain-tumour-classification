@@ -1,10 +1,10 @@
 streamlit
-numpy
+tensorflow==2.16.1
+numpy==1.26.4
 pandas
 plotly
 pillow
 matplotlib
 seaborn
 opencv-python-headless
-keras
 h5py
